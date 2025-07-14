@@ -1,5 +1,17 @@
 # Multithreaded-Chat-Application
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME*: Nandyala Shivani
+
+*INTERN ID* : CT06DM899
+
+*DOMAIN* : JAVA
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 A console-based multithreaded chat app using Java Sockets. Part of the **CODTECH Internship** project deliverables.
 
 ## ⚙ Features
