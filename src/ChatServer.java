@@ -25,7 +25,6 @@ public class ChatServer {
         }
     }
 
-    // Inner class for handling each client
     static class ClientHandler implements Runnable {
         private Socket socket;
         private PrintWriter out;
